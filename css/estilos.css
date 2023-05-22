@@ -31,3 +31,16 @@ header h1 {
     font-size: 30px;
     padding: 50px;
 }
+
+@media (max-width: 800px) {
+    .folha {
+        margin: 0 10%;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .folha {
+        margin: 0 2%;
+    }
+}
