@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #DDD;
+}
+
+.folha {
+    background-color: white;
+    margin: 0 25%;
+    box-shadow: 6px 1px 5px 0px #aaa, -6px 1px 5px 0px #aaa;
+    height: 100vh;
+
+}
+
+.container {
+    margin: 0 5%;
+}
+
+header h1 {
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.aviso {
+    background-color: yellow;
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+}
