@@ -44,3 +44,22 @@ header h1 {
         margin: 0 2%;
     }
 }
+
+.lista-disciplinas {
+    margin-top: 1rem;
+    list-style: none;
+}
+
+.lista-disciplinas-item {
+    background-color: #5e35b1;
+    padding: 10px 15px;
+    text-align: center;
+    margin: 24px 50px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.lista-disciplinas-item:hover {
+    background-color: #311b92;
+}
