@@ -10,7 +10,7 @@ body {
 
 .folha {
     background-color: white;
-    margin: 0 25%;
+    margin: 0 20%;
     box-shadow: 6px 1px 5px 0px #aaa, -6px 1px 5px 0px #aaa;
 }
 
@@ -69,7 +69,7 @@ body {
 
 .lista-materias-item {
     margin-left: 18px;
-    list-style:inside;
+    list-style:decimal-leading-zero inside;
     padding: 6px;
     font-weight: 600;
     color: #000;
