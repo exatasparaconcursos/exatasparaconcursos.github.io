@@ -82,3 +82,33 @@ body {
 .rodape {
     height: 80px;
 }
+
+.questao {
+    background-color: #EEE;
+    border-radius: 6px;
+    padding: 24px 12px;
+}
+
+.questao-alternativas {
+    padding: 6px;
+}
+
+.questao-alternativas-item {
+    list-style: none;
+    padding: 6px;
+}
+
+.banca {
+    font-weight: bold;
+}
+
+.comentarios {
+    padding: 24px;
+
+}
+
+.comentarios-titulo {
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 24px 6px;
+}
