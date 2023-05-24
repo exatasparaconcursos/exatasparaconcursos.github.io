@@ -69,7 +69,7 @@ body {
 
 .lista-materias-item {
     margin-left: 18px;
-    list-style:decimal-leading-zero inside;
+    list-style: decimal-leading-zero inside;
     padding: 6px;
     font-weight: 600;
     color: #000;
@@ -113,4 +113,17 @@ body {
     font-weight: bold;
     text-decoration: underline;
     margin: 24px 6px;
+}
+
+.resumo {
+    color: rgba(13, 71, 161, 1.0);
+    background-color: rgba(187, 222, 251, 0.3);
+    border-radius: 6px;
+    padding: 12px;
+    margin-top: 12px;
+}
+
+.resumo-titulo {
+    font-weight: bold;
+    margin-bottom: 12px;
 }
