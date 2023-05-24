@@ -127,3 +127,14 @@ body {
     font-weight: bold;
     margin-bottom: 12px;
 }
+
+.destaque-formula {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 6px 30px;
+    margin-top: 12px;
+    justify-content: center;
+    justify-content: center;
+    background-color: #e8f5e9;
+    color: #1b5e20;
+}
