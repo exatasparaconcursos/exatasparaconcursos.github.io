@@ -90,6 +90,10 @@ body {
     margin-top: 12px;
 }
 
+.questao p {
+    line-height: 1.5;
+}
+
 .questao-alternativas {
     padding: 6px;
 }
