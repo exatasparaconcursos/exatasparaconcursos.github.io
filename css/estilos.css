@@ -160,3 +160,8 @@ body {
     background-color: #e8f5e9;
     color: #1b5e20;
 }
+
+p {
+    line-height: 1.5;
+    margin-top: 24px;
+}
