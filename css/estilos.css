@@ -154,6 +154,7 @@ body {
 .destaque {
     display: flex;
     justify-content: center;
+    text-decoration: none;
 }
 
 .destaque-formula {
@@ -170,4 +171,21 @@ body {
 p {
     line-height: 1.5;
     margin-top: 24px;
+}
+
+.voltar {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid rgba(13, 71, 161, 1.0);
+    border-radius: 6px;
+    color: rgba(13, 71, 161, 1.0);
+    font-weight: bold;
+}
+
+.destaque a {
+    text-decoration: none;
+}
+
+.voltar:hover {
+    background-color: rgba(13, 71, 161, 0.1);
 }
