@@ -10,7 +10,7 @@ body {
 
 .folha {
     background-color: white;
-    margin: 0 20%;
+    margin: 0 25%;
     box-shadow: 6px 1px 5px 0px #aaa, -6px 1px 5px 0px #aaa;
 }
 
@@ -33,6 +33,12 @@ body {
     text-align: center;
     font-size: 30px;
     padding: 50px;
+}
+
+@media (max-width: 1200px) {
+    .folha {
+        margin: 0 15%;
+    }
 }
 
 @media (max-width: 800px) {
